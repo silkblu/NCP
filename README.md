@@ -1,5 +1,5 @@
 # NCP
-Network Captive Portal exploratory front-end &amp; back-end implementation
+## Network Captive Portal exploratory front-end &amp; back-end implementation
 
 
 The purpose of this repository is to build a responsive webpage to serve as a base for network captive portal infrastructure for projectAstrolytics. 
@@ -9,3 +9,6 @@ Objectives:
 2. Capture cookies
 3. Capture IP & MAC Addresses
 4. Parse input data, cookies & addrs to a database
+
+## Possible Implementation Options:
+1. https://in.pycon.org/cfp/2017/proposals/creating-captive-portal-with-tornado-and-raspberry-pi~dwngb/
