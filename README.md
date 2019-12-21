@@ -10,5 +10,6 @@ Objectives:
 3. Capture IP & MAC Addresses
 4. Parse input data, cookies & addrs to a database
 
-## Possible Implementation Options:
-1. https://in.pycon.org/cfp/2017/proposals/creating-captive-portal-with-tornado-and-raspberry-pi~dwngb/
+## Helpful Resources:
+1. https://rootsh3ll.com/captive-portal-guide/ 
+2. https://in.pycon.org/cfp/2017/proposals/creating-captive-portal-with-tornado-and-raspberry-pi~dwngb/
